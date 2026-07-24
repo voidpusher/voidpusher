@@ -1,4 +1,4 @@
-**Hi, I'm Voidpusher 👋**
+ **Hi, I'm Voidpusher 👋**
 
 **Developer · Builder · Lifelong Learner**
 
@@ -22,14 +22,13 @@ I enjoy turning ideas into useful software and learning by building. I’m inter
 | **Kampher** | Product-focused development and experimentation |
 | **Orbit** | Exploring ideas through modern software projects |
 | **Orrico** | Building a clean and useful digital experience |
-| **Chess Game** | Game logic, interaction, and thoughtful design  |
+| **Chess Game** | Game logic, interaction, and thoughtful design |
 
 **GitHub activity**
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=voidpusher&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Voidpusher's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidpusher&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
-</p>
+![Voidpusher's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidpusher&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidpusher&layout=compact&hide_border=true&theme=transparent)
 
 **Connect**
 
