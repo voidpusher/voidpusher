@@ -22,7 +22,7 @@ I enjoy turning ideas into useful software and learning by building. I’m inter
 | **Kampher** | Product-focused development and experimentation |
 | **Orbit** | Exploring ideas through modern software projects |
 | **Orrico** | Building a clean and useful digital experience |
-| **Chess Game** | Game logic, interaction, and thoughtful design |
+| **Chess Game** | Game logic, interaction, and thoughtful design  |
 
 **GitHub activity**
 
